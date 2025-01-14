@@ -1,0 +1,14 @@
+(base) yangqee@Spacecraft C-Programming % gcc start.c -o start
+(base) yangqee@Spacecraft C-Programming % ./start 
+Start! Hello World!
+(base) yangqee@Spacecraft C-Programming % pwd
+
+/Users/yangqee/VisualStudioCode/C-Programming
+(base) yangqee@Spacecraft C-Programming % ls
+start   start.c
+(base) yangqee@Spacecraft C-Programming % gcc start.c          
+(base) yangqee@Spacecraft C-Programming % ls         
+a.out   start   start.c
+(base) yangqee@Spacecraft C-Programming % ./a.out
+
+Start! Hello World!
